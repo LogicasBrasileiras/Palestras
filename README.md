@@ -1,12 +1,11 @@
-# Women In Logic Recorded Talks
+# Palestras de Logicas Brasileira
 
-This github repo, part of the organization (https://github.com/WomeninLogic/), is a place to keep information about logic recorded talks, in behalf of the collective Women in Logic https://www.womeninlogic.org/.
+Esse github repo, parte da organizacao Logicas Brasileiras,  e' usado pra descrever uma colecao de palestras/falas de logicas brasileiras.
 
 <br>
 
-This repo updates the webpage in https://womeninlogic.github.io/RecordedTalks/, a curation of previously recorded talks by women in logic, considered broadly.
+Esse repo produz a pagina em 
 
-The design and coding are the work of Prathyush, many thanks!
 
 ## Contributing
 
