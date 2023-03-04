@@ -4,7 +4,7 @@ Esse github repo, parte da organizacao Logicas Brasileiras,  e' usado pra descre
 
 <br>
 
-Esse repo produz a pagina em 
+Esse repo produz a pagina em https://logicasbrasileiras.github.io/Palestras/
 
 
 ## Contributing
