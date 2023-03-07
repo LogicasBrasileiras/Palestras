@@ -8,6 +8,16 @@
     "author_link": "https://ufsmpublica.ufsm.br/docente/19518",
     "description": "Palestra sobre a vida e a obra de Andrea Loparic"
 },
+	
+{
+    "title": "Hoje é dia 8 de março e agora?",
+    "talk_link": "https://www.youtube.com/watch?v=Ay3IMljc-q4",
+    "date": "Mar 8, 2022",
+    "author":"Livy Real",
+    "author_image": "livy-real.png",
+    "author_link": "https://www.researchgate.net/profile/Livy-Real",
+    "description": "Palestra na III workshop em Data Science"
+},	
 
 {"title": "Filosofia da Argumentação",
 "talk_link": "https://www.youtube.com/watch?v=XOL_-mX7ckk",
@@ -22,7 +32,7 @@
 "date": " Nov 11, 2021",
 "author": "Evelyn Erickson",
 "author_image": "evelyn-erickson.png",
-"author_link": "",
+"author_link": "https://philpeople.org/profiles/evelyn-erickson",
 "description": "I Encontro Brasileiro de Filósofas Analíticas"},
 	
 
