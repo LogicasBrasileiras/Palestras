@@ -1,4 +1,4 @@
-# Palestras de Logicas Brasileira
+# Palestras de Lógicas Brasileiras
 
 Esse github repo, parte da organizacao Logicas Brasileiras,  e' usado pra descrever uma colecao de palestras/falas de logicas brasileiras.
 
