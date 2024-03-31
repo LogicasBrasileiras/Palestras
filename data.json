@@ -1,9 +1,17 @@
 [	
+	{"title": "Anti-anti-excepcionalismo",
+"talk_link": "https://www.youtube.com/watch?v=4RyLUUHmaHE",
+"author": "Evelyn Erickson",
+"date": "Jun 12, 2023",
+"author_image": "evelyn-erickson.png",
+"author_link": "https://eerickson.weebly.com/",
+"description": "NELF (Nucleo de Logica e Filosofia Analitica da UFMA)"}, 
+	
 {
     "title": "Hoje é dia 8 de março e agora?",
     "talk_link": "https://www.youtube.com/watch?v=Ay3IMljc-q4",
     "date": "Mar 8, 2022",
-    "author":"Livy Real",
+    "author": "Livy Real",
     "author_image": "livy-real.jpg",
     "author_link": "https://www.researchgate.net/profile/Livy-Real",
     "description": "Palestra na III workshop em Data Science"
@@ -13,7 +21,7 @@
     "title": "Andrea Loparic",
     "talk_link": "https://www.youtube.com/watch?v=CPFaVNlCmoY",
     "date": "Sep 17, 2022",
-    "author":"Gisele Secco",
+    "author": "Gisele Secco",
     "author_image": "gisele-secco.png",
     "author_link": "https://ufsmpublica.ufsm.br/docente/19518",
     "description": "Palestra sobre a vida e a obra de Andrea Loparic"
